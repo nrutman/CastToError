@@ -1,11 +1,10 @@
-name: code-format
 on:
     pull_request:
     push:
         branches: [main]
 
 jobs:
-    prettier:
+    code-format:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
