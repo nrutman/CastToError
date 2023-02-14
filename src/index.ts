@@ -1,1 +1,1 @@
-export { castToError } from "./lib/castToError";
+export { castToError } from './lib/castToError';
