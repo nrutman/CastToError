@@ -1,4 +1,4 @@
-type NonNullableObject = NonNullable<Object>;
+type NonNullableObject = NonNullable<object>;
 
 export function isNonNullableObject(
   object: unknown
