@@ -1,4 +1,4 @@
-# CastToError
+# cast-to-error
 
 A simple TypeScript library to cast an unknown value to an error.
 
